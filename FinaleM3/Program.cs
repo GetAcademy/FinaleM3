@@ -9,6 +9,8 @@
  *  - Innkapsling!
  *  - Modellering
  *  - Refactoring (https://github.com/emilybache/GildedRose-Refactoring-Kata)
+ *      - top/down
+ *      - bottom up
  *
  * Full stack
  *  - Frontend:
