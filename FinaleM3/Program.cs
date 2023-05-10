@@ -8,6 +8,7 @@
  *  - Be om tilbakemelding på kode - og dere i mellom
  *  - Innkapsling!
  *  - Modellering
+ *  - Refactoring (https://github.com/emilybache/GildedRose-Refactoring-Kata)
  *
  * Full stack
  *  - Frontend:
@@ -40,5 +41,8 @@
  *  - Datastrukturer
  *  - Rekursive datastrukturer
  *  - Funksjonell programmering og F#
- *
+ *  - Scott Wlaschin
+ *      - https://fsharpforfunandprofit.com/fourfromforty/
+ *      - https://fsharpforfunandprofit.com/csharp/
+ *      - https://fsharpforfunandprofit.com/composition/
  */
